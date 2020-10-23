@@ -1,140 +1,93 @@
+---
 - id: read_more
-  translation: Lire la suite
-
+  translation: اطلاعات بیشتر
 - id: contact_form
-  translation: Formulaire de contact
-
+  translation: فرم ارتباط
 - id: send
-  translation: envoyer
-
+  translation: ارسال
 - id: contact_info
-  translation: Info de contact
-
+  translation: مشخصات تماس
 - id: subscribe_newsletter
-  translation: Abonnement à l’infolettre
-
+  translation: عضویت خبرنامه
 - id: subscribe
-  translation: S’abonner
-
+  translation: عضویت
 - id: contact_us
-  translation: Nous joindre
-
+  translation: ارتباط با ما
 - id: latest_article
-  translation: Dernier article
-
+  translation: اخرین مقاله
 - id: categories
-  translation: Catégories
-
+  translation: دسته‌بندی‌ها
 - id: tags
-  translation: Étiquettes
-
+  translation: تگ‌ها
 - id: see_all
-  translation: Tout voir
-
+  translation: دیدن همه
 - id: apply_now
-  translation: Postuler maintenant
-
+  translation: درخواست عضویت
 - id: posted_by
-  translation: Publié par
-
+  translation: نوشته شده توسط
 - id: date
-  translation: Date
-
+  translation: تاریخ
 - id: time
-  translation: heure
-
+  translation: زمان
 - id: category
-  translation: Catégorie
-
+  translation: دسته
 - id: related_course
-  translation: Cours lié
-
+  translation: دروس مشابه
 - id: duration
-  translation: durée
-
+  translation: مدت زمان
 - id: weekly
-  translation: hebdomadairement
-
+  translation: هفتگی
 - id: fee
-  translation: frais
-
+  translation: قیمت
 - id: teacher
-  translation: enseignant·e
-
+  translation: مدرس
 - id: location
-  translation: emplacement
-
+  translation: مکان
 - id: entry_fee
-  translation: frais d’entrée
-
+  translation: هزینه‌ی پرداختی
 - id: event_speaker
-  translation: Présentateur•trice·s
-
+  translation: سخنران رویداد
 - id: more_event
-  translation: Plus d’événements
-
+  translation: رویدادهای بیشتر
 - id: join
-  translation: S’abonner
-
+  translation: ملحق شدن
 - id: enter_email
-  translation: Entrez votre courriel…
-
+  translation: وارد کردن ایمیل
 - id: company
-  translation: compagnie
-
+  translation: شرکت
 - id: links
-  translation: liens
-
+  translation: لینک‌ها
 - id: courses
-  translation: Cours
-
+  translation: دوره‌ها
 - id: new_notice
-  translation: nouvelle notice
-
+  translation: اطلاعات جدید
 - id: call
-  translation: appeler
-
+  translation: تماس
 - id: email
-  translation: courriel
-
+  translation: ایمیل
 - id: all
-  translation: Tous
-
+  translation: همه
 - id: interest
-  translation: RÉSUMÉ DES ACTIVITÉS/INTÉRÊTS
-
+  translation: علاقه‌مندی
 - id: our_teachers
-  translation: Nos enseignants
-
+  translation: مدرسان ما
 - id: download
-  translation: Télécharger
-
+  translation: دانلود
 - id: About
-  translation: À propos
-
+  translation: درباره‌ی‌ما
 - id: course
-  translation: Cours
-
+  translation: دوره
 - id: Pages
-  translation: Pages
-
-#- id: teacher
-#  translation: Enseignant·e
-
+  translation: صفحات
 - id: notice
-  translation: notice
-
+  translation: اطلاعات
 - id: event
-  translation: Évènement
-
+  translation: رویداد
 - id: scholarship
-  translation: Cursus
-
+  translation: بورسیه
 - id: research
-  translation: Recherches
-
+  translation: تحقیقات
 - id: blog
-  translation: Blog
-
+  translation: بلاگ
 - id: contact
-  translation: Contact
+  translation: ارتباط
