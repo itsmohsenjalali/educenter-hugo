@@ -15,10 +15,10 @@ weight = 1
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-home = "Accueil"
+home = "صفحه‌ی اصلی"
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = 2
+weight = "2"
 [[menu.footer]]
 URL = "teacher"
 name = "teacher"
