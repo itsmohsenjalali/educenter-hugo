@@ -64,7 +64,7 @@ about:
     متعهد شرکت، گامی در شکوفایی و پیشرفت اقتصاد دانش ‏بنیان این مرز و بوم برداشته
     شود.
   button:
-    enable: true
+    enable: false
     label: En savoir plus
     link: about
 course:
