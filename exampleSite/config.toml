@@ -83,7 +83,7 @@ email = "nanozistsanaat@gmail.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
 mobile = "+983133912282"
-top_header = true
+top_header = false
 [params.cookies]
 enable = true
 expire_days = 2
