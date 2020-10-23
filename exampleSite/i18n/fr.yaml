@@ -1,4 +1,6 @@
 ---
+- id: home
+  translation: صفحه‌ی اصلی
 - id: read_more
   translation: اطلاعات بیشتر
 - id: contact_form
