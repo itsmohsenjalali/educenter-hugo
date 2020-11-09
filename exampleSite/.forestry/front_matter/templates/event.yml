@@ -2,13 +2,13 @@
 label: Event
 hide_body: false
 fields:
-  - type: file
-    name: image
-    label: image
-  - type: text
-    name: link
-    label: link
-  - type: text
-    name: type
-    label: type
-    default: event
+- type: file
+  name: image
+  label: image
+- type: text
+  name: link
+  label: link
+- type: text
+  name: type
+  label: type
+  default: event
