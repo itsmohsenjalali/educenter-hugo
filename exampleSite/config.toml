@@ -18,62 +18,26 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 home = "صفحه‌ی اصلی"
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = "2"
+weight = 1
 [[menu.footer]]
-URL = "teacher"
-name = "teacher"
-[[menu.footer]]
-URL = "notice"
-name = "notice"
-[[menu.footer]]
-URL = "event"
-name = "event"
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-[[menu.footer]]
-URL = "research"
-name = "research"
+URL = "production"
+name = "production"
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 1
-[[menu.main]]
-URL = "course"
-name = "course"
-weight = 2
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 3
-[[menu.main]]
-URL = "teacher"
-name = "teacher"
-parent = "Pages"
-[[menu.main]]
-URL = "notice"
-name = "notice"
-parent = "Pages"
-[[menu.main]]
-URL = "event"
-name = "event"
-parent = "Pages"
-[[menu.main]]
-URL = "scholarship"
-name = "scholarship"
-parent = "Pages"
-[[menu.main]]
-URL = "research"
-name = "research"
-parent = "Pages"
-[[menu.main]]
-URL = "blog"
-name = "blog"
 weight = 4
 [[menu.main]]
+URL = "director"
+name = "directors"
+weight = 3
+[[menu.main]]
+URL = "production"
+name = "production"
+weight = 2
+[[menu.main]]
 URL = "contact"
-name = "Contact"
-weight = 5
+name = "contact"
+weight = 4
 [params]
 address = "دانشگاه صنعتی اصفهان"
 author = "Themefisher"

@@ -91,5 +91,11 @@
   translation: تحقیقات
 - id: blog
   translation: بلاگ
+- id: production
+  translation: محصولات
 - id: contact
-  translation: ارتباط
+  translation: ارتباط با ما
+- id: news
+  translation: خبرنامه
+- id: directors
+  translation: هیئت مدیره

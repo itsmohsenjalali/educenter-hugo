@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<!-- teachers -->
+<section class="section">
+  <div class="container">
+    <!-- teacher list -->
+    <div class="row filtr-container farsi">
+      <!-- teacher -->
+      {{ range .Data.Pages }}
+      <div data-category="{{ .Params.Course | urlize }}" class="col-lg-4 col-sm-6 filtr-item">
+        {{ .Render "director" }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- /teachers -->
+
+{{ end }}
