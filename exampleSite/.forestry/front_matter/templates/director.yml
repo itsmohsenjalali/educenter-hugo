@@ -17,10 +17,6 @@ fields:
   name: image
   label: image
   description: portrait
-- type: text
-  name: course
-  label: course
-  description: course taken by him
 - type: textarea
   name: bio
   label: bio
