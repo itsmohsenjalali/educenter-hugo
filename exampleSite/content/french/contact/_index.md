@@ -1,10 +1,11 @@
 ---
-title: "À propos de nous"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
----
+title: ارتباط با ما
+bg_image: images/backgrounds/page-title.jpg
+description: شرکت نانوزیست صنعت اهورا (سهامی خاص) در سال 1397 به همت جمعی از اساتید
+  متخصص و فناور دانشگاه صنعتی اصفهان تاسیس شد. هدف از تاسیس این شرکت فعالیت در عرصه‏
+  اقتصاد دانش ‏بنیان با تجاری سازی و تولید انبوه محصولات بر پایه‏ ی دانش فنی کارشناسان
+  و پژوهشگران متخصص است. امید است که با تلاش و پیگیری کارشناسان و مدیران متخصص و متعهد
+  شرکت، گامی در شکوفایی و پیشرفت اقتصاد دانش ‏بنیان این مرز و بوم برداشته شود.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt. Dolore, labore. Accusamus nulla sed cum aliquid exercitationem debitis error harum porro maxime quo iusto aliquam dicta modi earum fugiat, vel possimus commodi, deleniti et veniam, fuga ipsum praesentium. Odit unde optio nulla ipsum quae obcaecati! Quod esse natus quibusdam asperiores quam vel, tempore itaque architecto ducimus expedita
+---
+شرکت نانوزیست صنعت اهورا (سهامی خاص) در سال 1397 به همت جمعی از اساتید متخصص و فناور دانشگاه صنعتی اصفهان تاسیس شد. هدف از تاسیس این شرکت فعالیت در عرصه‏ اقتصاد دانش ‏بنیان با تجاری سازی و تولید انبوه محصولات بر پایه‏ ی دانش فنی کارشناسان و پژوهشگران متخصص است. امید است که با تلاش و پیگیری کارشناسان و مدیران متخصص و متعهد شرکت، گامی در شکوفایی و پیشرفت اقتصاد دانش ‏بنیان این مرز و بوم برداشته شود.
