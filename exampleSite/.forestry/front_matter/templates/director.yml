@@ -42,3 +42,5 @@ fields:
   name: type
   label: type
   default: director
+pages:
+- exampleSite/content/french/director/سید-امیر-حسین-جلالی-حاجی-آبادی.md
