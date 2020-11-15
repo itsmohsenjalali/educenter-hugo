@@ -1,5 +1,5 @@
 ---
-image: "images/events/event-1.jpg"
-link: "https://www.google.com/"
-type: "event"
+image: "/images/seda.png"
+link: https://www.iribnews.ir/fa/news/2700510/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%88-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%DB%8C-%D9%86%D8%A7%D9%86%D9%88%D8%A7%D9%84%DB%8C%D8%A7%D9%81
+
 ---
