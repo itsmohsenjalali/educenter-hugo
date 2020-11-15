@@ -52,8 +52,8 @@ top_header = false
 enable = true
 expire_days = 2
 [params.map]
-enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBMLkTt4KvW6vYa1-6Dn6hwDkMpRYPjff8"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
