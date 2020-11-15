@@ -53,7 +53,7 @@ enable = true
 expire_days = 2
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBMLkTt4KvW6vYa1-6Dn6hwDkMpRYPjff8&callback=initMap"
+gmap_api = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=500&types=food&name=harbour&key=AIzaSyBMLkTt4KvW6vYa1-6Dn6hwDkMpRYPjff8&callback=initMap"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
