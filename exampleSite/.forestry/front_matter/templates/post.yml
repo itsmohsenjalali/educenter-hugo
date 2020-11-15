@@ -29,3 +29,5 @@ fields:
   name: type
   label: type
   default: post
+pages:
+- exampleSite/content/french/production/اسپری-خوشبوکننده-و-براق-کننده-ماشین.md
