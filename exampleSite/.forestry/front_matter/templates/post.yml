@@ -29,5 +29,3 @@ fields:
   name: type
   label: type
   default: post
-pages:
-- exampleSite/content/french/production/test.md
