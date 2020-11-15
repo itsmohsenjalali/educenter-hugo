@@ -1,5 +1,5 @@
 ---
-image: "images/events/event-1.jpg"
-link: "https://www.google.com/"
-type: "event"
+image: "/images/sanati.png"
+link: https://news.iut.ac.ir/news/30380
+
 ---
