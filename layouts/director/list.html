@@ -4,10 +4,10 @@
 <section class="section">
   <div class="container">
     <!-- teacher list -->
-    <div class="row filtr-container farsi">
+    <div class="row filtr-container">
       <!-- teacher -->
       {{ range .Data.Pages }}
-      <div data-category="{{ .Params.Course | urlize }}" class="col-lg-4 col-sm-6 filtr-item">
+      <div data-category="{{ .Params.Course | urlize }}" class="col-lg-4 col-sm-6 farsi">
         {{ .Render "director" }}
       </div>
       {{ end }}
