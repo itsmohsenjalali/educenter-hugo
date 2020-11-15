@@ -24,14 +24,14 @@ sections:
   label: Director
 - type: directory
   path: exampleSite/content/english/teacher
-  label: Teacher (en)
+  label: Director (en)
   create: all
   match: "**/*"
   templates:
   - director
 - type: directory
   path: exampleSite/content/french/director
-  label: Teacher (fr)
+  label: Director (fr)
   create: all
   match: "**/*"
   templates:
