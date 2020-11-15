@@ -16,26 +16,6 @@ slider:
       enable: true
       label: درباره‌ی ما
       link: about
-  - title: Votre brillant avenir est notre mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Postuler
-      link: contact
-  - title: Votre brillant avenir est notre mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Postuler
-      link: contact
 banner_feature:
   enable: false
   image: images/banner/banner-feature.png
