@@ -1,8 +1,6 @@
 ---
-title: "Dernières nouvelles"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "ceci est une description meta"
+title: محصولات شرکت
+bg_image: images/backgrounds/page-title.jpg
+description: محصولات شرکت نانوزیست صنعت اهورا
+
 ---
