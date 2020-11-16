@@ -569,7 +569,7 @@ link:focus,
 .hero-slider .prevArrow,
 .hero-slider .nextArrow {
   position: absolute;
-  bottom: -123px;
+  bottom: 100px;
   z-index: 9;
   padding: 15px;
   color: rgba(255, 255, 255, 0.5);
@@ -593,7 +593,7 @@ link:focus,
 .hero-slider .slick-dots {
   position: absolute;
   left: 0;
-  bottom: -100px;
+  bottom: 100px;
   padding-left: 0; }
   .hero-slider .slick-dots li {
     display: inline-block;

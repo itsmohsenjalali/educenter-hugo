@@ -3,11 +3,10 @@
 }
 
 .hero-slider {
-
   .prevArrow,
   .nextArrow {
     position: absolute;
-    bottom: -123px;
+    bottom: 100px;
     z-index: 9;
     padding: 15px;
     color: rgba($color: $white, $alpha: .5);
@@ -36,7 +35,7 @@
   .slick-dots {
     position: absolute;
     left: 0;
-    bottom: -100px;
+    bottom: 100px;
     padding-left: 0;
 
     li {
