@@ -18,7 +18,7 @@ slider:
       فنی کارشناسان و پژوهشگران متخصص است. امید است که با تلاش و پیگیری کارشناسان
       و مدیران متخصص و متعهد شرکت، گامی در شکوفایی و پیشرفت اقتصاد دانش ‏بنیان این
       مرز و بوم برداشته شود.
-    bg_image: images/backgrounds/page-title_1.jpg
+    bg_image: "/images/banner/banner-1.jpg"
     animation_in: left
     animation_out: right
     button:
