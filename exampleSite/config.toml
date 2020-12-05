@@ -1,7 +1,7 @@
 baseURL = "https://gracious-johnson-52ba87.netlify.app/"
 disableLanguages = ["En"]
 disqusShortname = "educenter"
-paginate = "6"
+paginate = "7"
 summaryLength = "10"
 theme = "educenter-hugo"
 title = "Nanozistsanaat"
