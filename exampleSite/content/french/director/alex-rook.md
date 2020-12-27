@@ -4,9 +4,9 @@ bg_image: images/backgrounds/page-title.jpg
 description: مدیرعامل
 image: "/images/alafchian.jpg"
 course: Vlogging
-bio: بیوگرافی
+bio: "\n"
 interest:
-- نانو
+- نانوفناوری
 contact:
 - name: Google scholar
   icon: ti-book
