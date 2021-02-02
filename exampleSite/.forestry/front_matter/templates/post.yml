@@ -30,6 +30,7 @@ fields:
   label: type
   default: post
 pages:
+- exampleSite/content/english/blog/sars-cov2-igm-igg-rapid-detection-test.md
 - exampleSite/content/french/production/اسپری-خوشبوکننده-و-براق-کننده-ماشین.md
 - exampleSite/content/french/production/دستگاه-نانوالکتروریس.md
 - exampleSite/content/french/production/پوشش-های-آب-گریز-آجر-سیمان-سرامیک-و-آسفالت.md
